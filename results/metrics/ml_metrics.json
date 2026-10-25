@@ -1,0 +1,30 @@
+{
+  "accuracy": 0.7783333333333333,
+  "macro_f1": 0.7673416984599627,
+  "recall_blocked_argmax": 0.81419624217119,
+  "missed_blocked_argmax": 89,
+  "recall_blocked_tau018": 0.9498956158663883,
+  "missed_blocked_tau018": 24,
+  "confusion_matrix": [
+    [
+      1069,
+      400,
+      1
+    ],
+    [
+      92,
+      1343,
+      216
+    ],
+    [
+      0,
+      89,
+      390
+    ]
+  ],
+  "classes": [
+    "free_flow",
+    "congested",
+    "blocked"
+  ]
+}

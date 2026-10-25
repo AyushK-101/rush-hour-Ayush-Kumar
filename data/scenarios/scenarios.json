@@ -1,0 +1,38 @@
+{
+  "RUSH-1": {
+    "name": "The Morning Commute",
+    "map": "scenario_RUSH_1.csv",
+    "start": [
+      3,
+      3
+    ],
+    "goal": [
+      56,
+      55
+    ]
+  },
+  "RUSH-2": {
+    "name": "The Ring Road",
+    "map": "scenario_RUSH_2.csv",
+    "start": [
+      55,
+      4
+    ],
+    "goal": [
+      4,
+      55
+    ]
+  },
+  "RUSH-3": {
+    "name": "The Emergency Run",
+    "map": "scenario_RUSH_3.csv",
+    "start": [
+      30,
+      3
+    ],
+    "goal": [
+      30,
+      56
+    ]
+  }
+}
