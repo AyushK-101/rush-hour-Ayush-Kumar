@@ -3,7 +3,7 @@
 **Team name:** Ayush Kumar  
 
 **Municipal Context:** Greater Hyderabad Municipal Corporation (GHMC), Telangana 108 / 112 ERSS  
-**Our repository URL:** https://github.com/ayushkumar/rush-hour-hyderabad  
+
 
 
 ---
