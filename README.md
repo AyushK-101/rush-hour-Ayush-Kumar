@@ -1,13 +1,10 @@
-﻿# Project RUSH HOUR: Team Submission (Hyderabad & 108 Emergency Context)
+﻿# Project RUSH HOUR: Team Submission (Hyderabad Context)
 
 **Team name:** Ayush Kumar  
-**Hackathon / date:** October 2026  
+
 **Municipal Context:** Greater Hyderabad Municipal Corporation (GHMC), Telangana 108 / 112 ERSS  
 **Our repository URL:** https://github.com/ayushkumar/rush-hour-hyderabad  
 
-| Member | Role (for example ML, routing, strategy, storyteller) | GitHub / Email |
-| :--- | :--- | :--- |
-| **Ayush Kumar** | Lead ML Engineer, Routing Architect & Municipal Strategy Consultant (Solo Contributor) | ayush@emergency-response.org |
 
 ---
 
